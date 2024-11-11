@@ -1,304 +1,312 @@
-This XML file does not appear to have any style information associated with it. The document tree is shown below.
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
 <url>
-<loc>https://peperina.es/</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>1.00</priority>
+  <loc>https://peperina.es/</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-<loc>https://peperina.es/collections/all</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://peperina.es/collections/all</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://peperina.es/collections/frontpage</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://peperina.es/collections/frontpage</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://peperina.es/pages/empresas</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://peperina.es/pages/empresas</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://peperina.es/pages/contact</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://peperina.es/pages/contact</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://peperina.es/pages/sobre-nosotros</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://peperina.es/pages/sobre-nosotros</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://peperina.es/pages/preguntas-frecuentes</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://peperina.es/pages/preguntas-frecuentes</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://peperina.es/products/mujo-rosa-coral</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://peperina.es/products/mujo-rosa-coral</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://peperina.es/products/oronja-verde-grisaceo</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://peperina.es/products/oronja-verde-grisaceo</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://peperina.es/products/peyote-rojo-ingles</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://peperina.es/products/peyote-rojo-ingles</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://peperina.es/products/orquidea-negra-blanco-marfil</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://peperina.es/products/orquidea-negra-blanco-marfil</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://peperina.es/products/mujo-marron-cacao</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://peperina.es/products/mujo-marron-cacao</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://peperina.es/products/ramonda-rosa-caramelo</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://peperina.es/products/ramonda-rosa-caramelo</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://peperina.es/products/irupe-verde-musgo</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://peperina.es/products/irupe-verde-musgo</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://peperina.es/products/peyote-verde-salvia</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://peperina.es/products/peyote-verde-salvia</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://peperina.es/products/orquidea-negra-verde-cazador</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://peperina.es/products/orquidea-negra-verde-cazador</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://peperina.es/products/mujo-lila-pastel</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://peperina.es/products/mujo-lila-pastel</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://peperina.es/products/menta-y-mate-verde-ambrosia</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://peperina.es/products/menta-y-mate-verde-ambrosia</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://peperina.es/products/oronja-naranja-melocoton</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://peperina.es/products/oronja-naranja-melocoton</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://peperina.es/collections/papeles-pintados</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://peperina.es/collections/papeles-pintados</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://peperina.es/products/papel-cardillo-blanco-marfil</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://peperina.es/products/papel-cardillo-blanco-marfil</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://peperina.es/products/cardillo-mostaza</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://peperina.es/products/cardillo-mostaza</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://peperina.es/products/cardillo-rojo-manzana</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://peperina.es/products/cardillo-rojo-manzana</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://peperina.es/products/cardillo-verde-arsenico</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://peperina.es/products/cardillo-verde-arsenico</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://peperina.es/products/copihue-azul-oceano</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://peperina.es/products/copihue-azul-oceano</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://peperina.es/products/copihue-morado-indigo</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://peperina.es/products/copihue-morado-indigo</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://peperina.es/products/copihue-rojo</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://peperina.es/products/copihue-rojo</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://peperina.es/products/copihue-rosa-rubor</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://peperina.es/products/copihue-rosa-rubor</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://peperina.es/products/drosera-gris-marengo</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://peperina.es/products/drosera-gris-marengo</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://peperina.es/products/drosera-naranja-arcilla</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://peperina.es/products/drosera-naranja-arcilla</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://peperina.es/products/drosera-tonos-piel</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://peperina.es/products/drosera-tonos-piel</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://peperina.es/products/drosera-verde-arsenico</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://peperina.es/products/drosera-verde-arsenico</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://peperina.es/collections/all?page=2</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://peperina.es/collections/all?page=2</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://peperina.es/collections/all?page=3</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://peperina.es/collections/all?page=3</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://peperina.es/collections/all?page=4</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://peperina.es/collections/all?page=4</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://peperina.es/collections/frontpage?page=2</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://peperina.es/collections/frontpage?page=2</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://peperina.es/collections/frontpage?page=3</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://peperina.es/collections/frontpage?page=3</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://peperina.es/collections/frontpage?page=4</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://peperina.es/collections/frontpage?page=4</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://peperina.es/products/mujo-tonos-vivos</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://peperina.es/products/mujo-tonos-vivos</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://peperina.es/products/oronja-azul-tinta</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://peperina.es/products/oronja-azul-tinta</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://peperina.es/products/oronja-rosa-palo</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://peperina.es/products/oronja-rosa-palo</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://peperina.es/products/peyote-verde-sacramento</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://peperina.es/products/peyote-verde-sacramento</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://peperina.es/products/peyote-azul-viridiano</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://peperina.es/products/peyote-azul-viridiano</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://peperina.es/products/orquidea-negra-rojo-borgona</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://peperina.es/products/orquidea-negra-rojo-borgona</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://peperina.es/products/orquidea-negra-tonos-violeta</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://peperina.es/products/orquidea-negra-tonos-violeta</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://peperina.es/products/ramonda-verde-pino</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://peperina.es/products/ramonda-verde-pino</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://peperina.es/products/ramonda-azul-cobalto</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://peperina.es/products/ramonda-azul-cobalto</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://peperina.es/products/ramonda-morado-uva</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://peperina.es/products/ramonda-morado-uva</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://peperina.es/products/irupe-azul-agua</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://peperina.es/products/irupe-azul-agua</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://peperina.es/products/irupe-azul-noche</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://peperina.es/products/irupe-azul-noche</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://peperina.es/products/irupe-tonos-naranja</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://peperina.es/products/irupe-tonos-naranja</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://peperina.es/products/menta-y-mate-verde-menta</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://peperina.es/products/menta-y-mate-verde-menta</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://peperina.es/products/menta-y-mate-azul-marino</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://peperina.es/products/menta-y-mate-azul-marino</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://peperina.es/products/menta-y-mate-tonos-otonales</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://peperina.es/products/menta-y-mate-tonos-otonales</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://peperina.es/collections/papeles-pintados?page=2</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://peperina.es/collections/papeles-pintados?page=2</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://peperina.es/collections/papeles-pintados?page=3</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://peperina.es/collections/papeles-pintados?page=3</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://peperina.es/collections/papeles-pintados?page=4</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://peperina.es/collections/papeles-pintados?page=4</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://peperina.es/collections/all?page=1</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.51</priority>
+  <loc>https://peperina.es/collections/all?page=1</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-<loc>https://peperina.es/collections/frontpage?page=1</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.51</priority>
+  <loc>https://peperina.es/collections/frontpage?page=1</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-<loc>https://peperina.es/collections/papeles-pintados?page=1</loc>
-<lastmod>2024-11-11T10:06:59+00:00</lastmod>
-<priority>0.51</priority>
+  <loc>https://peperina.es/collections/papeles-pintados?page=1</loc>
+  <lastmod>2024-11-11T10:06:59+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
+
+
 </urlset>
